@@ -134,27 +134,18 @@ git clone git@github.com:https://github.com/sharminkhan0/hello-world.git
 ### Install
 
 Install this project with:
+  - please first install the node package files
+    - npm install
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+  - In order to use this project you create branch to add more feature.
+  - But in order to run the project use below commands
+      - npm run build (It will create a production ready file)
+      - npm start (It will run the server on your machine)
 
 ### Run tests
 
