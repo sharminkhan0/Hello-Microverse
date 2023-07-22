@@ -63,11 +63,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[your_project__name]** This is my first project with Microverse using Github professional flow [Hello Microverse]
 
 ## 🛠 Built With <a name="built-with"></a>
 
