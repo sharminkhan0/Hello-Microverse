@@ -183,8 +183,6 @@ You can deploy your project using github free source.
 - Twitter: [@twitterhandle](https://twitter.com/SharminAkterKh)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/sharmin-akter-khan-62063419b)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
