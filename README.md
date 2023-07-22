@@ -235,7 +235,7 @@ As well as Freecodecamp and w3school for their useful articles that assisted me 
 
 ## 📝 License <a name="license"></a>
 
-This project is MIT(./MIT) licensed.
+This project is MIT licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
