@@ -128,7 +128,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-git clone git@github.com:[myaccount/my-project.git](https://github.com/sharminkhan0/hello-world.git)
+git clone git@github.com:https://github.com/sharminkhan0/hello-world.git
 
 
 ### Install
