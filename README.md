@@ -192,8 +192,8 @@ You can deploy your project using github free source.
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] [add more interactive buttons and sections]
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] [style it beautifully]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +213,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+Please feel free to contribute to this project if you enjoy it, and don't forget to star the repository so that it may be seen by more people.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,7 +223,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+As well as Freecodecamp and w3school for their useful articles that assisted me in creating this project, I would like to thank Microverse for their innovative approach to teaching me how to code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
