@@ -65,8 +65,8 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
 
->This is my first project with Microverse using Github professional flow [Hello Microverse]
-**[your_project__name]** 
+>This is my first project with Microverse using Github professional flow.
+**[Hello Microverse]** 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -76,23 +76,17 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://css.com/">CSS</a></li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -100,9 +94,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[key_feature_1]**Add the linter for the project to fix the errors and clean the codeok_hand
+- **[key_feature_2]**User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
+- **[key_feature_3]**Style the text using the CSS 100
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
