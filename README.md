@@ -78,10 +78,6 @@ For more information on the importance of a professional README for your reposit
   <ul>
     <li><a href="https://html.org/">HTML</a></li>
   </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
   <ul>
     <li><a href="https://css.com/">CSS</a></li>
   </ul>
@@ -94,9 +90,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**Add the linter for the project to fix the errors and clean the codeok_hand
-- **[key_feature_2]**User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
-- **[key_feature_3]**Style the text using the CSS 100
+- Add the linter for the project to fix the errors and clean the codeok_hand
+- User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
+- Style the text using the CSS 100
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
