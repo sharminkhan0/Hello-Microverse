@@ -177,17 +177,13 @@ You can deploy your project using github free source.
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/sharminkhan0)
+- Twitter: [@twitterhandle](https://twitter.com/SharminAkterKh)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sharmin-akter-khan-62063419b)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +193,7 @@ You can deploy your project using github free source.
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
+- [ ] [add more interactive buttons and sections]
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
