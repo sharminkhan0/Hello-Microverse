@@ -123,23 +123,13 @@ In order to run this project you need:
 - git
 Example command:
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+git clone git@github.com:[myaccount/my-project.git](https://github.com/sharminkhan0/hello-world.git)
 
-```sh
-  cd my-folder
-  git clone git@github.com:[myaccount/my-project.git](https://github.com/sharminkhan0/hello-world.git)
-```
---->
 
 ### Install
 
